@@ -3,9 +3,12 @@
 ## Front-end Developer 
 
 ### Contact information:
-**Phone:** +48667937929
-**Email:** barondashaa@mail.ru
-[LinkedIn][https://www.linkedin.com/in/daria-baron-a7328b247/]
+
+* **Phone:** +48667937929
+
+* **Email:** barondashaa@mail.ru
+
+* [LinkedIn](https://linkedin.com/in/daria-baron-a7328b247/)
 
 ## About Me
 
